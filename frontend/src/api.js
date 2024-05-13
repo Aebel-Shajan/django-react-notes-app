@@ -1,7 +1,7 @@
 // Interceptor will intercept any request we are gonna send and automatically 
 // add the correct header so we dont need to manually write it every time
 
-import axios from axios;
+import axios from "axios";
 import { ACCESS_TOKEN } from "./constants";
 
 const api = axios.create({
