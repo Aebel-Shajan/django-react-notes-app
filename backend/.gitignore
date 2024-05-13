@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-.env
-=======
 .env
 db.sqlite3
->>>>>>> d8afe52 (Add gitignore to ignore .env files)
